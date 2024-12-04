@@ -1,6 +1,8 @@
+![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9SlaLji1EK0ioyNZM9jSG778j1esEcz8jQ&s)
+
 <h1 align="center">Hi 👋, I'm Kelaiya Kaushal</h1>
 <h3 align="center">STUDENT OF DIPLOMA COMPUTER ENGINEERING.</h3>
-<img align="right"alt="coding"width="400"src="cyber-security-expert-working-with-technology-neon-lights">
+<img align="right"alt="coding"width="400"src="https://media1.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.webp?cid=790b76112c0g4zb64p17uatee6grpgunsbmpnocbqvyp0c7q&ep=v1_gifs_search&rid=giphy.webp&ct=g">
 
 - ⚡ Fun fact **I am cool.😎**
 
